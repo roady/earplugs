@@ -1,0 +1,12 @@
+Earplugs will be a Sabnzbd+ / torrent based music downloader based on the idea of Headphones.
+The setup will be a little bit different though, it will incorporate a music sorter but not iTunes based.
+I probably will start with a directory structured music collection, and go for a TOP50 approach, 
+rss list or something like that with plugins for music websites. 
+
+Although these ideas currently only exists on paper, we'll see what happens.
+
+Headphones repo: https://github.com/rembo10/headphones (I recommend this if you want a working version). 
+
+I will base my code on the structure of current projects as sickbeard and couchpotato. 
+Feel free to contribute, I expect a somewhat working version arround the beginning of July 2011.
+
